@@ -1,3 +1,5 @@
 def reformat_languages(languages)
-  # your code here
+hash = {}
+hash[:my_name] = "Theodore"
+puts hash
 end
