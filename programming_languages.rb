@@ -1,4 +1,5 @@
 def reformat_languages(languages)
-lang = {}
-lang[:ruby] =
+:oo{
+  :ruby{
+}
 end
