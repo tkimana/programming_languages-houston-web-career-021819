@@ -1,5 +1,7 @@
 def reformat_languages(languages)
-:oo{
-  :ruby{
+:oo =>{
+  :ruby => {
+    :type =>{"inter"
+  }
 }
 end
